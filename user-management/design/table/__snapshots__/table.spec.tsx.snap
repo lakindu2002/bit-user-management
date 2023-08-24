@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table component matches snapshot 1`] = `
+<DocumentFragment>
+  <table
+    style="border-collapse: collapse; width: 100%;"
+  >
+    <thead>
+      <tr>
+        <th
+          style="background-color: rgb(242, 242, 242); padding: 8px; text-align: left;"
+        >
+          Name
+        </th>
+        <th
+          style="background-color: rgb(242, 242, 242); padding: 8px; text-align: left;"
+        >
+          Age
+        </th>
+        <th
+          style="background-color: rgb(242, 242, 242); padding: 8px; text-align: left;"
+        >
+          Location
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="border: 1px solid #dddddd; padding: 8px;"
+        >
+          John Doe
+        </td>
+        <td
+          style="border: 1px solid #dddddd; padding: 8px;"
+        >
+          30
+        </td>
+        <td
+          style="border: 1px solid #dddddd; padding: 8px;"
+        >
+          New York
+        </td>
+      </tr>
+      <tr>
+        <td
+          style="border: 1px solid #dddddd; padding: 8px;"
+        >
+          Jane Smith
+        </td>
+        <td
+          style="border: 1px solid #dddddd; padding: 8px;"
+        >
+          25
+        </td>
+        <td
+          style="border: 1px solid #dddddd; padding: 8px;"
+        >
+          Los Angeles
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
